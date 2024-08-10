@@ -6,6 +6,10 @@
  *   animations.css, and icons.css which are used by this file.
  */
 
+.infoblob {
+	display: none;	
+}
+
 * {
 	padding: 0;
 	margin: 0;
