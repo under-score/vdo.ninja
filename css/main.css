@@ -7,7 +7,7 @@
  */
 
 .infoblob {
-	display: none;	
+	display: none !force;	
 }
 
 * {
