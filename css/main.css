@@ -6,10 +6,6 @@
  *   animations.css, and icons.css which are used by this file.
  */
 
-.infoblob {
-	display: none !force;	
-}
-
 * {
 	padding: 0;
 	margin: 0;
@@ -1552,6 +1548,7 @@ div[data-action-type='toggle-group'] {
 	width: 100%;
 	padding: 20px;
 	max-width: 1280px;
+	display:none;
 }
 
 .outer {
