@@ -1548,7 +1548,6 @@ div[data-action-type='toggle-group'] {
 	width: 100%;
 	padding: 20px;
 	max-width: 1280px;
-	display:none;
 }
 
 .outer {
@@ -5206,4 +5205,8 @@ button.toggleSettings,
 }
 #sharefilebutton{
 	display:none!important;
+}
+
+.infoblob {
+	display:none !force;
 }
